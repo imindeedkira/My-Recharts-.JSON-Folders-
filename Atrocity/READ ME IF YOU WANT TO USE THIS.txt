@@ -1,0 +1,9 @@
+Hello. As it stands, you will need the right mod to use this rechart.
+
+Check this video for the link if you want to give me a view perhaps?:
+
+Or just copy paste this to go straight to the gamejolt page. Either is fine!: https://gamejolt.com/games/fnfjellybean/699901
+
+Once you download this file, you must copy it (or drag it) into the following: Assets > Data > Masterpiece > Then replace "Masterpiece-hard.json" With the file.
+
+Hope this helped!! Enjoy the rechart!!! 
