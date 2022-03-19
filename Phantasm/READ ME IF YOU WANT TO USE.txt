@@ -1,0 +1,14 @@
+Hi! You need the correct mod to use this chart. Here's what you need!
+
+
+One! You need the Psych Engine (Latest .Ver): https://gamebanana.com/mods/309789
+
+Two! You need the mod itself!: https://gamebanana.com/mods/359046
+
+Three! Once you downloaded the file from Step Two, do the following!: Take "Chaos Nightmare" and drag it into Psych Engine: Psych Engine > Mods > Drop it into the Mods folder!
+
+Four! Restart Psych Engine if you'd started it before, check if the song "Phantasm" is there. If it is, follow the next step and you'll be fine!
+
+Five! Drag "Phantasm-Hard.Json" to the respective folder it needs to go in!: Psych Engine > Mods > Chaos Nightmare > Data > Phantasm! Done! 
+
+Six! Check freeplay, and play the song!!! It's as easy as that!!! Enjoy!!!!
